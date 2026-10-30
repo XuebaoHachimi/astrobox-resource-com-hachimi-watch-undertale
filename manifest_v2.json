@@ -1,0 +1,71 @@
+{
+  "item": {
+    "id": "com.hachimi.watch.undertale",
+    "restype": "quick_app",
+    "name": "传说之下 UNDERTALE",
+    "description": "欢迎来到《传说之下》的地下世界！\n\n这是一个尽可能还原原作体验的 Vela 移植版。熟悉的场景、角色、对白、谜题与战斗都将在手环上呈现：你可以探索地下世界，与怪物交谈、战斗，或者寻找和平解决问题的方法。你的选择，会影响旅途中的相遇与故事。\n\n从托丽尔的温柔引导，到雪地里与 Sans 和帕派瑞斯的相遇，再到紧张又有趣的弹幕战斗，希望你能在小小的屏幕上，重新感受原汁原味的《传说之下》。\n\n目前游戏已移植至雪镇章节，瀑布及后续内容尚未移植，我们将尽快推进后续内容的移植与优化。\n\n随着后续章节陆续适配，游戏价格也会相应上涨。早买早享受，欢迎提前加入这段地下世界的冒险！\n\n温馨提示\n\n由于 Vela 系统的特殊性，游戏安装完成后可能会占用较多存储空间。目前，进一步压缩安装后的空间占用可能会明显影响游戏性能，我们正在探索更稳妥的优化方法。\n\n性能提示\n\n根据目前的体验情况：\n\n• 小米手环 10 Pro：游戏运行帧率约为 10 帧，战斗体验也较为流畅。\n• 小米手环 9／小米手环 9 Pro：运行表现相较小米手环 10 Pro 稍弱，战斗场景会有轻微掉帧。\n• 目前在以上三款设备的体验过程中，均未出现重启或闪退问题。\n• 其他设备暂未测试，实际运行情况有待验证。",
+    "preview": [
+      "media/00-cover.png",
+      "media/01-intro.png",
+      "media/02-title.png",
+      "media/03-naming.png",
+      "media/04-ruins-menu.png",
+      "media/05-battle.png",
+      "media/06-snow.png",
+      "media/07-dialogue.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/undertale-cover-3x2-final.jpg",
+    "author": [
+      {
+        "name": "easejun",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官网",
+      "url": "https://ut.easejun.cn/",
+      "icon": "globe"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "0.3.0",
+      "file_name": "downloads/com.hachimi.watch.undertale.release.0.3.0.rpk",
+      "versionCode": 30
+    },
+    "xmb10nfc": {
+      "version": "0.3.0",
+      "file_name": "downloads/com.hachimi.watch.undertale.release.0.3.0.rpk",
+      "versionCode": 30
+    },
+    "xmb10p": {
+      "version": "0.3.0",
+      "file_name": "downloads/com.hachimi.watch.undertale.release.0.3.0.rpk",
+      "versionCode": 30
+    },
+    "xmb11": {
+      "version": "0.3.0",
+      "file_name": "downloads/com.hachimi.watch.undertale.release.0.3.0.rpk",
+      "versionCode": 30
+    },
+    "xmb11nfc": {
+      "version": "0.3.0",
+      "file_name": "downloads/com.hachimi.watch.undertale.release.0.3.0.rpk",
+      "versionCode": 30
+    },
+    "xmb9p": {
+      "version": "0.3.0",
+      "file_name": "downloads/com.hachimi.watch.undertale.release.0.3.0.rpk",
+      "versionCode": 30
+    },
+    "xmb9": {
+      "version": "0.3.0",
+      "file_name": "downloads/com.hachimi.watch.undertale.release.0.3.0.rpk",
+      "versionCode": 30
+    }
+  },
+  "ext": {}
+}
